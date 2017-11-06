@@ -1,5 +1,7 @@
 ## Introduction & Background
-Before being acquired by Bright Health, Allyson led the frontend division of Spyder Trap's development team by helping strategize, define, and implement team processes and best practices. Her fastidious development practices coupled with an eye for design aid in a quality product for both the end user and the engineers who maintain it. She demonstrates a passion and aptitude for picking up new concepts quickly and knowing when to utilize emerging technologies.
+Before being [acquired by Bright Health](http://tcbmag.com/news/articles/2017/july/bright-health-acquires-marketing-agency-spyder-tra), Allyson led the frontend division of Spyder Trap's development team by helping strategize, define, and implement team processes and best practices. She is now working on the engineering team for the ambitious Minneapolis health insurance startup, Bright Health.
+
+Her fastidious development practices coupled with an eye for design aid in a quality product for both the end user and the engineers who maintain it. She demonstrates a passion and aptitude for picking up new concepts quickly and determining when to utilize emerging technologies.
 
 
 
@@ -11,13 +13,17 @@ Before being acquired by Bright Health, Allyson led the frontend division of Spy
 
 
 ### Spyder Trap
-Acquired by Bright Health in May 2017
+_Acquired by Bright Health in May 2017_
 
 **Lead Frontend Developer** Oct 2015 – May 2017 (1 yr 8 mos)
 
 **Senior Frontend Developer** May 2015 – Oct 2015 (6 mos)
 
 **Junior Frontend Developer** Dec 2013 – May 2015 (1 yr 6 mos)
+
+
+### Freelance
+**Web Developer** Sept 2012 – Dec 2013 (1 yr 3 mos)
 
 
 ### RealTime Solutions
