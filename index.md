@@ -1,10 +1,9 @@
-## Introduction & Background
 Before being [acquired by Bright Health](http://tcbmag.com/news/articles/2017/july/bright-health-acquires-marketing-agency-spyder-tra), Allyson led the frontend division of Spyder Trap's development team by helping strategize, define, and implement team processes and best practices. She is now working on the engineering team for the ambitious Minneapolis health insurance startup, Bright Health.
 
 Her fastidious development practices coupled with an eye for design aid in a quality product for both the end user and the engineers who maintain it. She demonstrates a passion and aptitude for picking up new concepts quickly and determining when to utilize emerging technologies.
 
 
-### Skills
+## Skills
 - Collaborate with clients, product managers and business analysts to translate business requirements into technical requirements
 - Work in a fast-paced, agile project environment with small, focused teams
 - Assist with estimating work efforts required for each phase of a project
