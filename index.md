@@ -4,6 +4,15 @@ Before being [acquired by Bright Health](http://tcbmag.com/news/articles/2017/ju
 Her fastidious development practices coupled with an eye for design aid in a quality product for both the end user and the engineers who maintain it. She demonstrates a passion and aptitude for picking up new concepts quickly and determining when to utilize emerging technologies.
 
 
+### Skills
+- Collaborate with clients, product managers and business analysts to translate business requirements into technical requirements
+- Work in a fast-paced, agile project environment with small, focused teams
+- Assist with estimating work efforts required for each phase of a project
+- Review user interfaces for consistency and functionality
+- Develop standards and procedures to determine product quality and release readiness
+- Experience in a variety of development platforms and frameworks
+- Working knowledge of Visual Design Tools such as Sketch, Illustrator, and Photoshop
+
 
 ## Experience
 
