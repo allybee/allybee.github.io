@@ -17,7 +17,7 @@ Her fastidious development practices coupled with an eye for design aid in a qua
 
 ### Bright Health
 
-**Staff Software Engineer** May 2017 – Present (5 mos)
+**Staff Software Engineer** May 2017 – Present
 
 
 ### Spyder Trap
