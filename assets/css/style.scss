@@ -49,6 +49,11 @@
     line-height: 1.4;
   }
 
+  a {
+    color: inherit;
+    text-decoration: inherit;
+  }
+
   .page-header {
     background: none;
     padding: 0;
