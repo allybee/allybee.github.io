@@ -1,27 +1,31 @@
-Before being [acquired by Bright Health](http://tcbmag.com/news/articles/2017/july/bright-health-acquires-marketing-agency-spyder-tra), Allyson led the frontend division of Spyder Trap's development team by helping strategize, define, and implement team processes and best practices. She is now working on the engineering team for the ambitious Minneapolis health insurance startup, Bright Health.
-
-Her fastidious development practices coupled with an eye for design aid in a quality product for both the end user and the engineers who maintain it. She demonstrates a passion and aptitude for picking up new concepts quickly and determining when to utilize emerging technologies.
+Allyson's fastidious development practices coupled with an eye for design aid in a quality product for both the end user and the engineers who maintain it. She demonstrates a passion and aptitude for picking up new concepts quickly and determining when to utilize emerging technologies.
 
 
 ## Skills
-- Collaborate with clients, product managers and business analysts to translate business requirements into technical requirements
+- Collaborate with clients, product managers and business analysts to translate business needs into technical requirements
 - Work in a fast-paced, agile project environment with small, focused teams
 - Assist with estimating work efforts required for each phase of a project
 - Review user interfaces for consistency and functionality
 - Develop standards and procedures to determine product quality and release readiness
+- Strategize, define, and implement team processes and best practices
 - Experience in a variety of development platforms and frameworks
 - Working knowledge of Visual Design Tools such as Sketch, Illustrator, and Photoshop
 
 
 ## Experience
 
+### Nerdery
+
+**Senior Software Engineer** April 2018 – Present
+
+
 ### Bright Health
 
-**Staff Software Engineer** May 2017 – Present
+**Staff Software Engineer** May 2017 – April 2018 (11 mos)
 
 
 ### Spyder Trap
-_Acquired by Bright Health in May 2017_
+_[Acquired by Bright Health](http://tcbmag.com/news/articles/2017/july/bright-health-acquires-marketing-agency-spyder-tra) in May 2017_
 
 **Lead Frontend Developer** Oct 2015 – May 2017 (1 yr 8 mos)
 
