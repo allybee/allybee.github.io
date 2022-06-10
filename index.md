@@ -16,7 +16,9 @@ Allyson's fastidious development practices coupled with an eye for design aid in
 
 ### Nerdery
 
-**Senior Software Engineer** April 2018 – Present
+**Principal Software Engineer** October 2021 – Present
+
+**Senior Software Engineer** April 2018 – October 2021 (3 yrs 7 mos)
 
 
 ### Bright Health
