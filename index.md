@@ -27,7 +27,7 @@ Allyson's fastidious development practices coupled with an eye for design aid in
 
 
 ### Spyder Trap
-_[Acquired by Bright Health](http://tcbmag.com/news/articles/2017/july/bright-health-acquires-marketing-agency-spyder-tra) in May 2017_
+_Acquired by Bright Health in May 2017_
 
 **Lead Frontend Developer** Oct 2015 – May 2017 (1 yr 8 mos)
 
